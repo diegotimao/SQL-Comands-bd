@@ -1,0 +1,1 @@
+SELECT submitted_date FROM purchase_orders WHERE DAY(submitted_date) = 26;
