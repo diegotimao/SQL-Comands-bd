@@ -1,6 +1,6 @@
-# MySQL - Comands Banco de dados Relacional
+# SQL Query Repository
 
-Repósitorio destinado ao aramazenamento de queryes referentes ao banco de dados MySQL.
+Repósitorio destinado ao aramazenamento de queryes referentes ao banco de dados MySQL, banco de dados Relacional.
 
 Para acessar deve-se entrar na pasta **/query** onde estão todos os arquivos.
 
